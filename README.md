@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ethan 👋
 
-<!--
-**hoeperethan/hoeperethan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+18 yr old founder of [Hoeper Studios](https://hoeperstudio.com). I build websites for local businesses, SaaS tools, and trading bots, mostly with Claude Code.
 
-Here are some ideas to get you started:
+### 🛠 What I'm building
+- **Hoeper Studios** · custom websites for local service businesses
+- **LeadTool** · finds local businesses that need a website
+- **Herald** · Solana memecoin paper trading bot
+- **Quick Trade** · paper trading extension for Padre & Axiom
+- **Jarvis** · voice command center that drives Claude Code
+- **Coming soon** · open source feature library for vibe coded apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Stack
+Next.js · TypeScript · Tailwind · Framer Motion · GSAP · Supabase · Vercel · Claude Code
+
+### 📫 Find me
+[X](https://x.com/HoeperEthan) · [LinkedIn](https://linkedin.com/in/ethanhoeper) · [hoeperstudio.com](https://hoeperstudio.com)
